@@ -12,6 +12,10 @@
     "type": "git",
     "url": "git+https://github.com/Jacobnine87/streaming-media-assignment.git"
   },
+  "engines": {
+    "node": "12.14.1",
+    "npm": "6.13.7"
+  },
   "author": "",
   "license": "ISC",
   "bugs": {
